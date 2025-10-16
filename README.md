@@ -108,7 +108,7 @@ Architecture notes:
 ### 4) Buy Me a Coffee
 If you find this project helpful, you can support it here:
 
-- Link: `https://buymeacoffee.com/torreslol`
+- Link: [Buy Me a Coffee](https://buymeacoffee.com/torreslol)
 - You can also click the coffee cup icon in the menu bar panel.
 
 Thanks for your support!
@@ -219,7 +219,7 @@ KeyFlash/
 ### 5. Buy Me a Coffee
 如果这个项目对你有帮助，欢迎请我喝杯咖啡：
 
-- 链接：`https://buymeacoffee.com/torreslol`
+- 链接：[Buy Me a Coffee](https://buymeacoffee.com/torreslol)
 - 菜单栏或面板右下角也可直接点击咖啡杯图标跳转。
 
 感谢支持！
