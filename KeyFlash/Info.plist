@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.easytime.keyflash.KeyFlash</string>
+	<key>CFBundleName</key>
+	<string>KeyFlash</string>
+	<key>CFBundleDisplayName</key>
+	<string>KeyFlash</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2024 Torres Wang. All rights reserved.</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>KeyFlash Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+		</dict>
+	</array>
+	<key>NSSupportsAutomaticTermination</key>
+	<true/>
+	<key>NSSupportsSuddenTermination</key>
+	<true/>
+	<key>LSBackgroundOnly</key>
+	<false/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	
+	<!-- Add privacy descriptions for permissions -->
+	<key>NSAppleEventsUsageDescription</key>
+	<string>KeyFlash needs access to control other applications to detect and show available shortcuts.</string>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>KeyFlash needs accessibility access to detect keyboard shortcuts and display them.</string>
+
+	<!-- Add localization configurations -->
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>zh-Hans</string>
+		<string>zh-Hant</string>
+		<string>es</string>
+		<string>fr</string>
+		<string>de</string>
+		<string>ja</string>
+		<string>ko</string>
+		<string>ru</string>
+		<string>ar</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+</dict>
+</plist>

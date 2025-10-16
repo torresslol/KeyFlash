@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "시스템";
+"theme_light" = "라이트";
+"theme_dark" = "다크";
+
+// MARK: - Settings
+"settings_title" = "설정";
+"settings_theme" = "테마";
+"settings_language" = "언어";
+"settings_about" = "KeyFlash 정보";
+"settings_quit" = "KeyFlash 종료";
+"settings_reset_defaults" = "기본값으로 재설정";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "단축키 검색...";
+"shortcuts_category_all" = "전체";
+"shortcuts_total_count" = "단축키 %d개";
+"shortcuts_no_results" = "일치하는 단축키가 없습니다";
+"shortcuts_clear_search" = "검색 지우기";
+"shortcuts_extract_current" = "현재 앱 단축키 추출";
+"shortcuts_view_all_cached" = "캐시된 모든 단축키 보기";
+"shortcuts_clear_cache" = "캐시 지우기";
+"shortcuts_export" = "단축키 내보내기";
+
+// MARK: - Menu
+"menu_show_panel" = "패널 표시";
+"menu_hotkey" = "트리거 키 설정";
+"menu_hotkey_command" = "Command 키";
+"menu_hotkey_control" = "Control 키";
+"menu_hotkey_option" = "Option 키";
+"menu_hotkey_fn" = "기능 키";
+"menu_theme" = "테마";
+"menu_language" = "언어";
+"menu_quit" = "종료";
+"menu_extract_current" = "현재 앱 단축키 추출";
+"menu_view_all" = "캐시된 모든 단축키 보기";
+"menu_clear_cache" = "캐시 지우기";
+"menu_export" = "단축키 내보내기";
+"menu_settings" = "설정";
+"menu_about" = "KeyFlash 정보";
+
+// MARK: - About
+"about_version" = "버전 %@";
+"about_copyright" = "© 2024 Torres Wang. 모든 권리 보유.";
+
+// MARK: - Alerts
+"alert_no_app_title" = "앱을 가져올 수 없음";
+"alert_no_app_message" = "현재 활성화된 응용 프로그램을 가져올 수 없거나, 현재 활성화된 앱이 KeyFlash 자체입니다.";
+"alert_ok" = "확인";
+"alert_cancel" = "취소"; 

@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "Sistema";
+"theme_light" = "Claro";
+"theme_dark" = "Oscuro";
+
+// MARK: - Settings
+"settings_title" = "Ajustes";
+"settings_theme" = "Tema";
+"settings_language" = "Idioma";
+"settings_about" = "Acerca de KeyFlash";
+"settings_quit" = "Salir de KeyFlash";
+"settings_reset_defaults" = "Restablecer valores predeterminados";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "Buscar atajos...";
+"shortcuts_category_all" = "Todos";
+"shortcuts_total_count" = "%d atajos";
+"shortcuts_no_results" = "No se encontraron atajos";
+"shortcuts_clear_search" = "Borrar búsqueda";
+"shortcuts_extract_current" = "Extraer atajos de la app actual";
+"shortcuts_view_all_cached" = "Ver todos los atajos en caché";
+"shortcuts_clear_cache" = "Borrar caché";
+"shortcuts_export" = "Exportar atajos";
+
+// MARK: - Menu
+"menu_extract_current" = "Extraer atajos de la app actual";
+"menu_view_all" = "Ver todos los atajos en caché";
+"menu_clear_cache" = "Borrar caché";
+"menu_export" = "Exportar atajos";
+"menu_settings" = "Ajustes";
+"menu_about" = "Acerca de KeyFlash";
+"menu_quit" = "Salir";
+
+// MARK: - About
+"about_version" = "Versión %@";
+"about_copyright" = "© 2024 Torres Wang. Todos los derechos reservados.";
+
+// MARK: - Alerts
+"alert_no_app_title" = "No se puede obtener la app";
+"alert_no_app_message" = "No se puede obtener la aplicación activa actual, o la aplicación actual es KeyFlash.";
+"alert_ok" = "Aceptar";
+"alert_cancel" = "Cancelar"; 

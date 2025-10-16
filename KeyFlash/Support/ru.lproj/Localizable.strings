@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "Системная";
+"theme_light" = "Светлая";
+"theme_dark" = "Темная";
+
+// MARK: - Settings
+"settings_title" = "Настройки";
+"settings_theme" = "Тема";
+"settings_language" = "Язык";
+"settings_about" = "О программе KeyFlash";
+"settings_quit" = "Выйти из KeyFlash";
+"settings_reset_defaults" = "Сбросить настройки";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "Поиск сочетаний клавиш...";
+"shortcuts_category_all" = "Все";
+"shortcuts_total_count" = "%d сочетаний клавиш";
+"shortcuts_no_results" = "Сочетания клавиш не найдены";
+"shortcuts_clear_search" = "Очистить поиск";
+"shortcuts_extract_current" = "Извлечь сочетания клавиш из текущего приложения";
+"shortcuts_view_all_cached" = "Просмотреть все кэшированные сочетания клавиш";
+"shortcuts_clear_cache" = "Очистить кэш";
+"shortcuts_export" = "Экспортировать сочетания клавиш";
+
+// MARK: - Menu
+"menu_extract_current" = "Извлечь сочетания клавиш из текущего приложения";
+"menu_view_all" = "Просмотреть все кэшированные сочетания клавиш";
+"menu_clear_cache" = "Очистить кэш";
+"menu_export" = "Экспортировать сочетания клавиш";
+"menu_settings" = "Настройки";
+"menu_about" = "О программе KeyFlash";
+"menu_quit" = "Выйти";
+
+// MARK: - About
+"about_version" = "Версия %@";
+"about_copyright" = "© 2024 Torres Wang. Все права защищены.";
+
+// MARK: - Alerts
+"alert_no_app_title" = "Не удается получить приложение";
+"alert_no_app_message" = "Не удается получить текущее активное приложение, или текущее приложение - это KeyFlash.";
+"alert_ok" = "ОК";
+"alert_cancel" = "Отмена"; 

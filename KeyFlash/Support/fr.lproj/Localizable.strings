@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "Système";
+"theme_light" = "Clair";
+"theme_dark" = "Sombre";
+
+// MARK: - Settings
+"settings_title" = "Paramètres";
+"settings_theme" = "Thème";
+"settings_language" = "Langue";
+"settings_about" = "À propos de KeyFlash";
+"settings_quit" = "Quitter KeyFlash";
+"settings_reset_defaults" = "Réinitialiser les paramètres";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "Rechercher des raccourcis...";
+"shortcuts_category_all" = "Tous";
+"shortcuts_total_count" = "%d raccourcis";
+"shortcuts_no_results" = "Aucun raccourci trouvé";
+"shortcuts_clear_search" = "Effacer la recherche";
+"shortcuts_extract_current" = "Extraire les raccourcis de l'application actuelle";
+"shortcuts_view_all_cached" = "Voir tous les raccourcis en cache";
+"shortcuts_clear_cache" = "Vider le cache";
+"shortcuts_export" = "Exporter les raccourcis";
+
+// MARK: - Menu
+"menu_extract_current" = "Extraire les raccourcis de l'application actuelle";
+"menu_view_all" = "Voir tous les raccourcis en cache";
+"menu_clear_cache" = "Vider le cache";
+"menu_export" = "Exporter les raccourcis";
+"menu_settings" = "Paramètres";
+"menu_about" = "À propos de KeyFlash";
+"menu_quit" = "Quitter";
+"menu_show_panel" = "Afficher le panneau";
+"menu_hotkey" = "Paramètres des touches de déclenchement";
+"menu_hotkey_command" = "Touche Command";
+"menu_hotkey_control" = "Touche Control";
+"menu_hotkey_option" = "Touche Option";
+"menu_hotkey_fn" = "Touche de fonction";
+"menu_theme" = "Thème";
+"menu_language" = "Langue";
+
+// MARK: - About
+"about_version" = "Version %@";
+"about_copyright" = "© 2024 Torres Wang. Tous droits réservés.";
+
+// MARK: - Alerts
+"alert_no_app_title" = "Impossible d'obtenir l'application";
+"alert_no_app_message" = "Impossible d'obtenir l'application active actuelle, ou l'application actuelle est KeyFlash elle-même.";
+"alert_ok" = "OK";
+"alert_cancel" = "Annuler"; 

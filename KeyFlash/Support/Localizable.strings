@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "System";
+"theme_light" = "Light";
+"theme_dark" = "Dark";
+
+// MARK: - Settings
+"settings_title" = "Settings";
+"settings_theme" = "Theme";
+"settings_language" = "Language";
+"settings_about" = "About KeyFlash";
+"settings_quit" = "Quit KeyFlash";
+"settings_reset_defaults" = "Reset to Defaults";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "Search shortcuts...";
+"shortcuts_category_all" = "All";
+"shortcuts_total_count" = "%d shortcuts";
+"shortcuts_no_results" = "No shortcuts found";
+"shortcuts_clear_search" = "Clear search";
+"shortcuts_extract_current" = "Extract Current App Shortcuts";
+"shortcuts_view_all_cached" = "View All Cached Shortcuts";
+"shortcuts_clear_cache" = "Clear Cache";
+"shortcuts_export" = "Export Shortcuts";
+
+// MARK: - Menu
+"menu_extract_current" = "Extract Current App Shortcuts";
+"menu_view_all" = "View All Cached Shortcuts";
+"menu_clear_cache" = "Clear Cache";
+"menu_export" = "Export Shortcuts";
+"menu_settings" = "Settings";
+"menu_about" = "About KeyFlash";
+"menu_quit" = "Quit";
+"menu_show_panel" = "Show Panel";
+"menu_launch_at_login" = "Launch at Login";
+"menu_hotkey" = "Trigger Key Settings";
+"menu_hotkey_command" = "Command Key";
+"menu_hotkey_control" = "Control Key";
+"menu_hotkey_option" = "Option Key";
+"menu_hotkey_fn" = "Function Key";
+"menu_theme" = "Theme";
+"menu_language" = "Language";
+
+// MARK: - About
+"about_version" = "Version %@";
+"about_copyright" = "© 2024 Torres Wang. All rights reserved.";
+"buy_me_coffee" = "Buy Me a Coffee";
+
+// MARK: - Alerts
+"alert_no_app_title" = "Cannot Get App";
+"alert_no_app_message" = "Cannot get the current active application, or the current application is KeyFlash itself.";
+"alert_ok" = "OK";
+"alert_cancel" = "Cancel";
+
+// MARK: - Accessibility Alert
+"accessibility_alert_title" = "Accessibility Permission Required";
+"accessibility_alert_message" = "KeyFlash needs Accessibility permission to read menus and shortcuts from other applications.\n\nPlease follow these steps:\n\n1. Click the \"Open System Preferences\" button.\n2. In the Security & Privacy window that opens, check the box next to the KeyFlash app.\n3. Close and restart the KeyFlash app.\n\nRestarting the app is necessary for the permission to take effect.";
+"accessibility_alert_button_open_prefs" = "Open System Preferences";
+"accessibility_alert_button_later" = "Later";
+
+// MARK: - Common UI
+"common_close" = "Close";
+"shortcuts_hide_panel" = "Hide Panel";
+"shortcuts_reset_filters" = "Reset Filters"; 

@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "システム";
+"theme_light" = "ライト";
+"theme_dark" = "ダーク";
+
+// MARK: - Settings
+"settings_title" = "設定";
+"settings_theme" = "テーマ";
+"settings_language" = "言語";
+"settings_about" = "KeyFlashについて";
+"settings_quit" = "KeyFlashを終了";
+"settings_reset_defaults" = "デフォルトにリセット";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "ショートカットを検索...";
+"shortcuts_category_all" = "すべて";
+"shortcuts_total_count" = "%d個のショートカット";
+"shortcuts_no_results" = "ショートカットが見つかりません";
+"shortcuts_clear_search" = "検索をクリア";
+"shortcuts_extract_current" = "現在のアプリのショートカットを抽出";
+"shortcuts_view_all_cached" = "キャッシュされたすべてのショートカットを表示";
+"shortcuts_clear_cache" = "キャッシュをクリア";
+"shortcuts_export" = "ショートカットをエクスポート";
+
+// MARK: - Menu
+"menu_extract_current" = "現在のアプリのショートカットを抽出";
+"menu_view_all" = "キャッシュされたすべてのショートカットを表示";
+"menu_clear_cache" = "キャッシュをクリア";
+"menu_export" = "ショートカットをエクスポート";
+"menu_settings" = "設定";
+"menu_about" = "KeyFlashについて";
+"menu_quit" = "終了";
+"menu_show_panel" = "パネルを表示";
+"menu_hotkey" = "トリガーキー設定";
+"menu_hotkey_command" = "Command キー";
+"menu_hotkey_control" = "Control キー";
+"menu_hotkey_option" = "Option キー";
+"menu_hotkey_fn" = "ファンクションキー";
+"menu_theme" = "テーマ";
+"menu_language" = "言語";
+
+// MARK: - About
+"about_version" = "バージョン %@";
+"about_copyright" = "© 2024 Torres Wang. 全著作権所有。";
+
+// MARK: - Alerts
+"alert_no_app_title" = "アプリを取得できません";
+"alert_no_app_message" = "現在アクティブなアプリケーションを取得できないか、現在のアプリケーションがKeyFlash自体です。";
+"alert_ok" = "OK";
+"alert_cancel" = "キャンセル"; 

@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "النظام";
+"theme_light" = "فاتح";
+"theme_dark" = "داكن";
+
+// MARK: - Settings
+"settings_title" = "الإعدادات";
+"settings_theme" = "السمة";
+"settings_language" = "اللغة";
+"settings_about" = "حول KeyFlash";
+"settings_quit" = "إنهاء KeyFlash";
+"settings_reset_defaults" = "إعادة تعيين إلى الإعدادات الافتراضية";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "البحث عن اختصارات...";
+"shortcuts_category_all" = "الكل";
+"shortcuts_total_count" = "%d اختصار";
+"shortcuts_no_results" = "لم يتم العثور على اختصارات";
+"shortcuts_clear_search" = "مسح البحث";
+"shortcuts_extract_current" = "استخراج اختصارات التطبيق الحالي";
+"shortcuts_view_all_cached" = "عرض جميع الاختصارات المخزنة";
+"shortcuts_clear_cache" = "مسح ذاكرة التخزين المؤقت";
+"shortcuts_export" = "تصدير الاختصارات";
+
+// MARK: - Menu
+"menu_extract_current" = "استخراج اختصارات التطبيق الحالي";
+"menu_view_all" = "عرض جميع الاختصارات المخزنة";
+"menu_clear_cache" = "مسح ذاكرة التخزين المؤقت";
+"menu_export" = "تصدير الاختصارات";
+"menu_settings" = "الإعدادات";
+"menu_about" = "حول KeyFlash";
+"menu_quit" = "إنهاء";
+
+// MARK: - About
+"about_version" = "الإصدار %@";
+"about_copyright" = "© 2024 Torres Wang. جميع الحقوق محفوظة.";
+
+// MARK: - Alerts
+"alert_no_app_title" = "لا يمكن الحصول على التطبيق";
+"alert_no_app_message" = "لا يمكن الحصول على التطبيق النشط الحالي، أو التطبيق الحالي هو KeyFlash نفسه.";
+"alert_ok" = "موافق";
+"alert_cancel" = "إلغاء"; 

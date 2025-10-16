@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  KeyFlash
+*/
+
+// MARK: - Theme
+"theme_system" = "跟隨系統";
+"theme_light" = "淺色";
+"theme_dark" = "深色";
+
+// MARK: - Settings
+"settings_title" = "設置";
+"settings_theme" = "主題";
+"settings_language" = "語言";
+"settings_about" = "關於 KeyFlash";
+"settings_quit" = "退出 KeyFlash";
+"settings_reset_defaults" = "恢復預設設置";
+
+// MARK: - Shortcuts Panel
+"shortcuts_search_placeholder" = "搜索快捷鍵...";
+"shortcuts_category_all" = "全部";
+"shortcuts_total_count" = "%d 個快捷鍵";
+"shortcuts_no_results" = "沒有找到匹配的快捷鍵";
+"shortcuts_clear_search" = "清除搜索";
+"shortcuts_extract_current" = "提取當前應用快捷鍵";
+"shortcuts_view_all_cached" = "查看所有緩存的快捷鍵";
+"shortcuts_clear_cache" = "清除緩存";
+"shortcuts_export" = "導出快捷鍵";
+
+// MARK: - Menu
+"menu_show_panel" = "顯示面板";
+"menu_hotkey" = "觸發鍵設置";
+"menu_hotkey_command" = "Command 鍵";
+"menu_hotkey_control" = "Control 鍵";
+"menu_hotkey_option" = "Option 鍵";
+"menu_hotkey_fn" = "功能鍵";
+"menu_theme" = "主題";
+"menu_language" = "語言";
+"menu_quit" = "退出";
+"menu_extract_current" = "提取當前應用快捷鍵";
+"menu_view_all" = "查看所有緩存的快捷鍵";
+"menu_clear_cache" = "清除緩存";
+"menu_export" = "導出快捷鍵";
+"menu_settings" = "設置";
+"menu_about" = "關於 KeyFlash";
+
+// MARK: - About
+"about_version" = "版本 %@";
+"about_copyright" = "© 2024 Torres Wang. 保留所有權利。";
+"buy_me_coffee" = "請我喝杯咖啡";
+
+// MARK: - Alerts
+"alert_no_app_title" = "無法獲取應用";
+"alert_no_app_message" = "無法獲取當前活動的應用程序，或當前活動應用是KeyFlash自身。";
+"alert_ok" = "確定";
+"alert_cancel" = "取消"; 
